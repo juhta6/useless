@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="useless" version="1.0.0">
+<widget id="useless.app" version="1.0.0">
     <name>Useless</name>
     <description>
        Moi
     </description>
-    <author email="me@me.com" href="http://www.me.me">
-        Me
-    </author>
 </widget>
