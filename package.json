@@ -1,8 +1,8 @@
 {
   "title": "JTU",
-  "description": "Tabris.js - KPS",
+  "description": "Tabris.js - JTU",
   "category": "Small Apps",
-  "main": "src/uselesss.js",
+  "main": "src/useless.js",
   "dependencies": {
     "tabris": "^1.7.0"
   }
