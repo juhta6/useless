@@ -1,6 +1,7 @@
 var menu = new tabris.Page({
   	title: "Menu",
-  	topLevel: true
+  	topLevel: true,
+	background: "grey"
 });
 new tabris.Button({
   layoutData: {width: 100, height: 60, bottom:100, centerX: 0},
